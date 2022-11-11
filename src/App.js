@@ -65,7 +65,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="header">Image Identification</h1>
+      <h1 className="header">Image Identification 2.0</h1>
       <div className="inputHolder">
         <input
           type="file"
